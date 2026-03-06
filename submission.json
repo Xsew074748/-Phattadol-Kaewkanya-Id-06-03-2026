@@ -1,0 +1,11 @@
+{
+  "student_id": "6604101358",
+  "name": "นายพัทธดนย์ แก้วกัลยา",
+  "github_repo": "https://github.com/Xsew074748/-Phattadol-Kaewkanya-Id-06-03-2026.git",
+  "backend_base_url": "https://ch3-1-proxy-server1-main-backend.onrender.com",
+  "frontend_url": "https://ch3-1-proxy-server1-main-frontend.netlify.app",
+  "api": {
+    "health": "https://ch3-1-proxy-server1-main-backend.onrender.com/api/health",
+    "tasks": "https://ch3-1-proxy-server1-main-backend.onrender.com/api/tasks"
+  }
+}
