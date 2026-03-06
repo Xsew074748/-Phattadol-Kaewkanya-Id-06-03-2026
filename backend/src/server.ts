@@ -52,6 +52,11 @@ app.get('/', (_req, res) => {
   });
 });
 
+// health check endpoint (ตามข้อกำหนดข้อที่ 2)
+app.get('/api/health', (_req, res) => {
+  res.json({ ok: true });
+});
+
 // Task API (Lab 2.1)
 app.use('/api/tasks', taskRoutes);
 
