@@ -24,15 +24,15 @@
     "morgan": "^1.10.1",
     "pg": "^8.16.3",
     "@prisma/config": "^7.3.0",
-    "prisma": "^7.1.0"
+    "prisma": "^7.1.0",
+    "typescript": "^5.9.3",
+    "@types/node": "^24.10.1",
+    "@types/express": "^5.0.6",
+    "@types/cors": "^2.8.19",
+    "@types/morgan": "^1.9.10",
+    "ts-node": "^10.9.2"
   },
   "devDependencies": {
-    "@types/cors": "^2.8.19",
-    "@types/express": "^5.0.6",
-    "@types/morgan": "^1.9.10",
-    "@types/node": "^24.10.1",
-    "nodemon": "^3.1.11",
-    "ts-node": "^10.9.2",
-    "typescript": "^5.9.3"
+    "nodemon": "^3.1.11"
   }
 }
