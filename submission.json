@@ -2,10 +2,10 @@
   "student_id": "6604101358",
   "name": "นายพัทธดนย์ แก้วกัลยา",
   "github_repo": "https://github.com/Xsew074748/-Phattadol-Kaewkanya-Id-06-03-2026.git",
-  "backend_base_url": "https://ch3-1-backend-6604101358.onrender.com",
-  "frontend_url": "https://ch3-1-frontend-6604101358.netlify.app",
+  "backend_base_url": "https://phattadol-kaewkanya-id-06-03-2026.onrender.com",
+  "frontend_url": "https://admirable-buttercream-66fd03.netlify.app",
   "api": {
-    "health": "https://ch3-1-backend-6604101358.onrender.com/api/health",
-    "tasks": "https://ch3-1-backend-6604101358.onrender.com/api/tasks"
+    "health": "https://phattadol-kaewkanya-id-06-03-2026.onrender.com/api/health",
+    "tasks": "https://phattadol-kaewkanya-id-06-03-2026.onrender.com/api/tasks"
   }
 }
