@@ -1,7 +1,6 @@
 [build]
-  base = "frontend"
-  command = "npx quasar build"
-  publish = "dist/spa"
+  command = "cd frontend && npm install && npx quasar build"
+  publish = "frontend/dist/spa"
 
 [build.environment]
   NODE_VERSION = "20"
